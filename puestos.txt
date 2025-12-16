@@ -1,0 +1,1 @@
+Patrón,Aprendiz,CEO,Barrendero,Cocinero,gerente,Encargado de tienda,animador,oficial,comandante

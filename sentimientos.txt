@@ -1,0 +1,1 @@
+felicidad,tristeza,Orgullo,alegria,celos,seguridad,compasión,gratitud,furia,rabia
